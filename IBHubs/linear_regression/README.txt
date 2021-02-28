@@ -1,0 +1,1 @@
+First run the command python train.py to train the dataset and then run the command python predict.py train_X_lr.csv to get the MSE.
